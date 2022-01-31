@@ -1,0 +1,62 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color:aqua;
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    color: rgb(255, 0, 0);
+    font-family: algerian;
+
+}
+
+.note{
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    font-family: comic sans ms;
+    font-weight: bold;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+#speed{
+    font-size: 20px;
+    margin: 15px;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.start{
+    font-size: 25px;
+    width: 10%;
+    margin: 20px;
+    font-family:comic sans ms;
+    font-weight: bold;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px magenta;
+    margin-top: 80px;
+}
